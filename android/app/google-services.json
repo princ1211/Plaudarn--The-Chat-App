@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "349805255635",
+    "firebase_url": "https://plaudarn.firebaseio.com",
+    "project_id": "plaudarn",
+    "storage_bucket": "plaudarn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349805255635:android:1b451b5985c965fc9a6d26",
+        "android_client_info": {
+          "package_name": "com.example.plaudarn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349805255635-qcmr0oftt9qjrdqoai66hn14r87vqqmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfbSofBwF0x1GUeoPbaoxSwcz1wRRTKHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349805255635-qcmr0oftt9qjrdqoai66hn14r87vqqmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
